@@ -1,9 +1,3 @@
-/* 
-5) Suba no Github no repositório do curso em uma branch chamada exercicio_html_js.
-
-6) Copie o link do repositório na plataforma da EBAC que a equipe de tutoria dará o feedback.
-*/
-
 const form = document.getElementById('form')
 const campoA = document.getElementById('input1')
 const campoB = document.getElementById('input2')
